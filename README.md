@@ -72,5 +72,5 @@ _Consiste en que una clase tiene una unica responsabilidad , el proposito es de 
 
 ### Qué características tiene, según su opinión, un “buen” código o código limpio ###
 
-Un codigo limpio debe ser enfocado, cada clase, metodo o entidad debe permanecer sin cambiar, tambien debe ser leible con nombres de variables claras y no debe ser redundate. 
+_Un codigo limpio debe ser enfocado, cada clase, metodo o entidad debe permanecer sin cambiar, tambien debe ser leible con nombres de variables claras y no debe ser redundate._
 
