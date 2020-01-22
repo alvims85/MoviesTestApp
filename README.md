@@ -1,5 +1,5 @@
 # MoviesTestApp
-Aplicacion demo de la integraciona la The Movie Database api peliculas y series
+Aplicacion demo de la integraciona a The Movie Database api peliculas y series
 
 
 ## Capas de la aplicacion ##
